@@ -1,1 +1,1 @@
-# identification-of-fake-news-cnn-lstm-project
+# fake-news-cnn-lstm-project
