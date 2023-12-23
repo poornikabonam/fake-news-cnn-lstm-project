@@ -22,8 +22,8 @@ This research utilizes datasets from diverse sources such as Kaggle, Reuters, an
 ## System Architecture
 The system architecture for text classification involves the integration of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks to achieve accurate and efficient classification of text data. The architecture follows a multi-layered approach, encompassing both convolutional and recurrent layers for comprehensive feature extraction and context understanding.
 ### Data Input:
-        Text data from various sources, such as news articles or social media content, serves as the input to the system.
-        The raw text is preprocessed to convert it into a format suitable for analysis, including tokenization, stemming, and removal of stop words.
+Text data from various sources, such as news articles or social media content, serves as the input to the system.
+The raw text is preprocessed to convert it into a format suitable for analysis, including tokenization, stemming, and removal of stop words.
 
 ### Embedding Layer:
         The initial layer involves embedding words into low-dimensional vectors, enabling the neural network to work with continuous vector representations of words.
