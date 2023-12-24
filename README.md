@@ -6,7 +6,7 @@ This research aims to develop a model for detecting fake news by analyzing the s
   * [Technologies used](https://github.com/poornikabonam/fake-news-cnn-lstm-project#technologies-used)
   * [Dataset](https://github.com/poornikabonam/fake-news-cnn-lstm-project#dataset)
 * [System Architecture](https://github.com/poornikabonam/fake-news-cnn-lstm-project#system-architecture)
-* [Results]
+* [Results](https://github.com/poornikabonam/fake-news-cnn-lstm-project/blob/main/README.md#results)
 
 ## Prerequisites
 ### Environment
@@ -50,13 +50,12 @@ The entire architecture is trained using machine learning algorithms, with the m
 ## Results
 ![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/ecd4013f-578a-4cd8-8914-49318c8b7fb4)
 
-![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/b11e0bb4-f14e-4284-90e9-342305b36b20)
+![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/fc8b18bc-76ac-46f9-92e1-24da9aa757ec)
 
-![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/314ce94f-2c11-426b-bd2e-74ce72f94523)
+![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/e5a1b0dd-7689-4b42-a104-de988b8de1e5)
 
-![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/ffeb5bf2-5eda-41e7-8c74-4db63310f42c)
+![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/0c29ebbf-1c5e-45c1-9b9f-db749414b91f)
 
-![image](https://github.com/poornikabonam/fake-news-cnn-lstm-project/assets/97566249/055cd2ca-a848-428a-9a4f-42ca2999ffac)
 
 
 
