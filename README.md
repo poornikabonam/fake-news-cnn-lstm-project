@@ -1,8 +1,8 @@
 # fake-news-cnn-lstm-project
 This research aims to develop a model for detecting fake news by analyzing the stance of articles and the reliability of their sources. Stance features, defined as unsupported claims, are employed to assess the authenticity of news. The model classifies news articles into categories such as agree, disagree, unrelated, or discuss based on the alignment between headlines and their assigned body content. The proposed methodology involves using keywords to identify relevant articles and leveraging PCA and Chi-square for feature reduction. PCA, a popular statistical technique, is employed to enhance classifier performance by transforming the original variables into a subset with reduced dimensions.
 ## Table of Contents
-* Prerequisites
-  * Environment
+* [Prerequisites](https://github.com/poornikabonam/fake-news-cnn-lstm-project/blob/main/README.md#prerequisites)
+  * [Environment](https://github.com/poornikabonam/fake-news-cnn-lstm-project/blob/main/README.md#environment)
   * Technologies used
   * Dataset
 * System Architecture
